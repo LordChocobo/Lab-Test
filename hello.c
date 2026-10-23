@@ -2,7 +2,7 @@
 
 int main(void) {
 <<<<<<< HEAD
-    printf("You're a bum!\n");
+    printf("You're a wfbi3eiugf3yfgyuvfyugfewgyfuvybum!\n");
 =======
 >>>>>>> refs/remotes/origin/main
     printf("Get wrecked nerd\n");
