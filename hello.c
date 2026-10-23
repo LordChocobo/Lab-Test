@@ -1,10 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-<<<<<<< HEAD
-    printf("You're a bum!\n");
-=======
->>>>>>> refs/remotes/origin/main
+    printf("You're a bum\n");
     printf("Get wrecked nerd\n");
     printf("free me up big time\n");
     printf("conflict if youre a muppet\n");
