@@ -2,8 +2,11 @@
 
 int main(void) {
 <<<<<<< HEAD
-    printf("You're a wfbi3eiugf3yfgyuvfyugfewgyfuvybum!\n");
+<<<<<<< HEAD
 =======
+>>>>>>> refs/remotes/origin/main
+=======
+    printf("You're a bum\n");
 >>>>>>> refs/remotes/origin/main
     printf("Get wrecked nerd\n");
     printf("free me up big time\n");
